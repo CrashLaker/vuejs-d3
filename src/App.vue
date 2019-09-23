@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
+      <router-link to="/neo4j">Neo4j</router-link> |
       <router-link to="/d3force">D3Force</router-link>
     </div>
     <router-view/>
